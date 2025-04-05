@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sukoon.india",
+      "sha256_cert_fingerprints": [
+        "7C:A8:0B:6E:EE:1D:63:18:CF:0A:AC:0D:62:CC:87:76:EB:C9:DC:6C:09:50:6C:04:3F:77:45:AE:84:96:6F:EA"
+      ]
+    }
+  },
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sukoon.unlimited",
+        "sha256_cert_fingerprints": [
+          "A3:7C:A9:54:07:2F:E6:A9:B7:AD:16:33:F0:36:9C:2C:09:6F:B0:9B:3B:98:03:4A:40:95:25:3F:5B:6B:56:95"
+        ]
+      }
+    }
+  ]
